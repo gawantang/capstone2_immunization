@@ -7,11 +7,12 @@ A recent analysis documents a decrease in the county-level proportion of America
 In early 2025, a measles outbreak among children in Western Texas garnered national attention drawing attention to inadequate child immunization rates in American communities. Most of the identified measles cases have been unvaccinated or their vaccination status was unknown (Texas Department of State Health Services, accessed Aug 8, 2025). As of August 2025, 762 cases have been confirmed, about 29.5% of them in children under the age of five years old. The pace of the outbreak in Texas, concentrated in Gaines County, has much decreased but there have since been outbreaks across the border in Lea County, New Mexico, in Kansas, and in Iowa (Forbes article).
 
 This project proposal aims to investigate the factors that influence county-level child immunization rates against measles by triangulating available county-level data within the state of Texas. 
+Note that the data available at the county level in Texas does not allow for calculating the % of children who received a specific number of doses (i.e. coverage) but instead # of doses per child or the MMR dose rate.
 
 
 Primary Questions:
-What are the strongest predictors of high county-level measles vaccination rates across Texas being up-to-date on the full vaccine series? 
-If the relationships between predictors and county-level measles vaccination coverage have changed over the last five years, how have they changed?
+What are the strongest predictors of high county-level measles vaccination dose rates across Texas? 
+If the relationships between predictors and county-level measles vaccination dose rates changed over the last five years, how have they changed?
 
 Data Sources:
 
